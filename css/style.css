@@ -52,7 +52,8 @@ section{
 	width: 50%;
 }
 #gambar img{
-	width: 100%;
+	padding-left: 100px;
+	width: 70%;
 	height: 100%
 }
 #lain{
