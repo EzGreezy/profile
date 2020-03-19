@@ -59,11 +59,20 @@ section{
 	display: flex;
 }
 #Keahlian{
-	width: 33%;
+	text-align: justify;
+	width: 30%;
+}
+#space1{
+	width: 4%
 }
 #Tentang_saya{
-	width: 33%;
+	text-align: justify;
+	width: 30%;
+}
+#space2{
+	width: 4%
 }
 #Kontak_saya{
-	width: 33%
+	text-align: justify;
+	width: 30%
 }
