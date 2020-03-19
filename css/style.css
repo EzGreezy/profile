@@ -56,23 +56,24 @@ section{
 	height: 100%
 }
 #lain{
+	text-align: justify;
 	display: flex;
 }
 #Keahlian{
-	text-align: justify;
 	width: 30%;
 }
 #space1{
 	width: 4%
 }
 #Tentang_saya{
-	text-align: justify;
 	width: 30%;
 }
 #space2{
 	width: 4%
 }
 #Kontak_saya{
-	text-align: justify;
 	width: 30%
+}
+#copyright{
+	text-align: justify;
 }
