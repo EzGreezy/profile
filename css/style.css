@@ -43,18 +43,19 @@ section{
 	display: flex;
 }
 #info{
+	text-align: justify;
 	width: 50%;
 }
 #info p{
 	color: 'white';
 }
 #gambar{
-	width: 50%;
+	width: 55%;
 }
 #gambar img{
-	padding-left: 100px;
-	width: 70%;
-	height: 100%
+	padding-left: 80px;
+	width: 90%;
+	height: 90%
 }
 #lain{
 	text-align: justify;
@@ -64,13 +65,13 @@ section{
 	width: 30%;
 }
 #space1{
-	width: 4%
+	width: 7%
 }
 #Tentang_saya{
 	width: 30%;
 }
 #space2{
-	width: 4%
+	width: 7%
 }
 #Kontak_saya{
 	width: 30%
